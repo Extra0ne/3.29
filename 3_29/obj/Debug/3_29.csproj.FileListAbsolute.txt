@@ -1,0 +1,7 @@
+C:\Users\Polzovatel\source\repos\3_29\3_29\bin\Debug\3_29.exe.config
+C:\Users\Polzovatel\source\repos\3_29\3_29\bin\Debug\3_29.exe
+C:\Users\Polzovatel\source\repos\3_29\3_29\bin\Debug\3_29.pdb
+C:\Users\Polzovatel\source\repos\3_29\3_29\obj\Debug\3_29.csprojAssemblyReference.cache
+C:\Users\Polzovatel\source\repos\3_29\3_29\obj\Debug\3_29.csproj.CoreCompileInputs.cache
+C:\Users\Polzovatel\source\repos\3_29\3_29\obj\Debug\3_29.exe
+C:\Users\Polzovatel\source\repos\3_29\3_29\obj\Debug\3_29.pdb
